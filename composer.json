@@ -1,0 +1,19 @@
+{
+    "name": "dongyuxiang/laravel-forbidden",
+    "type": "library",
+    "require": {
+        "php": "^7.0.0"
+    },
+    "require-dev": {
+        "laravel/framework": "^5.7",
+        "phpunit/phpunit": "^8.0",
+        "friendsofphp/php-cs-fixer": "^2.14"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "dongm2ez",
+            "email": "dongm2ez@163.com"
+        }
+    ]
+}
